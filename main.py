@@ -69,6 +69,7 @@ def handle_command(message):
 			直接发送问题 (仅限私聊): 回复答案
 			/ai 问题: 群组内使用
 			/image 关键词: 画图
+			/changegptmodel 模型: 更改模型，格式: `@xx/xxx/xxx/xx`
 			""")
 	
 	elif command == "/image":
