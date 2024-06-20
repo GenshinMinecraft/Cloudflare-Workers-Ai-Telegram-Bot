@@ -20,5 +20,5 @@ PS: 目前所用模型都是 Beta，Beta 模型限时免费，所以你可以随
 Demo Bot: <https://t.me/cloudflareworkersaibot>
 
 TO DO LIST:
-- 添加上下文支持
+
 - 适配 `/start@xxxbot` 命令
