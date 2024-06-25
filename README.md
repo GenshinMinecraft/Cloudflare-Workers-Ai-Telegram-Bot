@@ -1,4 +1,7 @@
 # Cloudflare-Workers-Ai-Telegram-Bot
+
+## 该项目已经停止开发，如需继续使用更好的服务请移步 [Rust 版本](https://github.com/GenshinMinecraft/Rust-Cloudflare-Workers-AI-Telegram-Bot)
+
 一个很简单很简单的 Telegram AI Bot，基于 Python + Cloudflare Workers AI API
 
 没有技术含量，可在 [这里](https://developers.cloudflare.com/workers-ai/models/)查看支持的模型
